@@ -1,0 +1,6 @@
+Bruno;997743714;rua um;f;1234432
+Ana;997743711;rua dois;f;121324
+Gabi;997743733;rua tres;j;1325255/11
+Joao;997743744;rua quatro;j;325462/00
+Pedro;997743755;rua cinco;f;23632
+Guilherme;997743766;rua seis;j;2353532/12

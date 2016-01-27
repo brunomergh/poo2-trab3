@@ -1,0 +1,6 @@
+Codigo | Quantidade Atual 
+1      | -16 <============== COMPRAR MAIS 
+2      | -15 <============== COMPRAR MAIS 
+3      | -14 <============== COMPRAR MAIS 
+4      | -17 <============== COMPRAR MAIS 
+5      | -11 <============== COMPRAR MAIS 

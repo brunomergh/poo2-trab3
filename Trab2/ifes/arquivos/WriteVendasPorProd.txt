@@ -1,0 +1,6 @@
+Descricao do Produto | Total de venda bruta | Total de lucro
+1                    | 49.5                  | 16.5
+2                    | 13.65                  | 3.9
+3                    | 13.87                  | 4.62
+4                    | 63.0                  | 21.0
+5                    | 16.56                  | 7.36
